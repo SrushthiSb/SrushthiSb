@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm 2025 Graduate in BE CSE<br>🔭 I’m currently working on LLMs<br>🌱 I’m currently learning AIML<br>🧠 Skills: Python, Machine Learning, Data Analysis <br>📫 Connect with me: linkedin.com/in/srushthi-betageri
+👋 2025 BE CSE Graduate  <br>🔭 I’m currently working on LLMs<br>🌱 I’m currently learning AIML<br>🧠 Skills: Python, Machine Learning, Data Analysis <br>📫 Connect with me: linkedin.com/in/srushthi-betageri
 
 
 ## 🌐 Socials:
